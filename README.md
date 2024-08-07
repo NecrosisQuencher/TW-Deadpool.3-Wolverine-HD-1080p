@@ -8,7 +8,7 @@
 
 <H2>死侍與金鋼狼 - 完整版-【Deadpool.3/Wolverine】 中文字幕电影HD </H2>
 
-<img src="#GAMBARPOSTERBLOG#" />
+<img src="https://image.tmdb.org/t/p/original/cOoVcVQ3i1m5b2xtqKBtoTSbxC1.jpg" />
 
 运行时间: 127 分钟
 类型: 科幻, 动作, 喜剧
@@ -23,7 +23,7 @@
 
 《死侍與金鋼狼》排定2024年7月22日於大衛·H·寇克劇院首映，並在2024年7月 日於美國上映。
 
-<img src="#GAMBARPOSTERBLOG#" />
+<img src="https://image.tmdb.org/t/p/original/cOoVcVQ3i1m5b2xtqKBtoTSbxC1.jpg" />
 
 在前作事件的六年后，「死侍」韋德·威爾森不再担任雇佣兵，以一名汽车销售员的身份过着穷困潦倒的生活[1]。就在此时，時間變異管理局找上门，讓他與另一宇宙的「金鋼狼」羅根共同承擔一項將改變漫威電影宇宙歷史的重大使命
 
